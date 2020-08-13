@@ -1,5 +1,8 @@
-Hello nice to work with you.
+Hello there !
 
+how to install :
+    npm install
+ 
 to make your project work you need :
     1 : setup the database by going to https://www.mongodb.com/fr then sign in and creat a cluster 
     2 : copy the cluster URI and past it in app.js line:23 (change my URI by yource).
