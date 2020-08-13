@@ -1,0 +1,16 @@
+Hello nice to work with you.
+
+to make your project work you need :
+    1 : setup the database by going to https://www.mongodb.com/fr then sign in and creat a cluster 
+    2 : copy the cluster URI and past it in app.js line:23 (change my URI by yource).
+    3 : if you want to creat a user, simply go to sign-up or navigate to localhost:3000/user/signup , creat a user ( be sure to fill all the fields) and enjoy. 
+    4 : if you want to change a user to an admin you will need to access to your database, then change the value of isAdmin from 0 to 1
+    5 : to add a new product , navigate to the dashboard , then add new product, and fill all field ( all fields are required ), and be sure to add a web picture URL in the iamge field
+    6 : to review a product , you will have to : either buy a product, buy selecting a product then go to shopping card then order or 
+    go to admin dashboard then manage products , then write a review .
+    7 : all orders are stored in databases , you can see products history in /user/profile after login . 
+    
+
+i hope you like my product.
+for more informations : contact me in my fiverr account https://www.fiverr.com/mysellcrun .
+Thank you.
