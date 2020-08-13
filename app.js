@@ -20,7 +20,7 @@ var userRouter = require('./routes/user');
 var app = express();
 
 // connect to database 
-const URI = "mongodb+srv://username:username@cluster0.7ss7g.mongodb.net/Cluster0?retryWrites=true&w=majority";
+const URI = "  Write your URI from mongoDB here !!! ";
 mongoose.connect(URI ,{ useUnifiedTopology: true, useNewUrlParser: true }, () => console.log('connected')) ;
 require('./config/passport');
 
